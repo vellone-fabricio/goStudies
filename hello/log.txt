@@ -1,0 +1,15 @@
+https://alura.com.br/- online:true
+https://google.com.br- online:true
+https://random-status-code.herokuapp.com/- online:true
+https://alura.com.br/- online:true
+https://google.com.br- online:true
+https://random-status-code.herokuapp.com/- online:false
+DD/MM/YY HH:MM:SShttps://alura.com.br/- online:true
+DD/MM/YY HH:MM:SShttps://google.com.br- online:true
+DD/MM/YY HH:MM:SShttps://random-status-code.herokuapp.com/- online:false
+27/11/2021 21/53/46https://alura.com.br/- online:true
+27/11/2021 21/53/47https://google.com.br- online:true
+27/11/2021 21/53/48https://random-status-code.herokuapp.com/- online:true
+27/11/2021 21/54/12-https://alura.com.br/- online:true
+27/11/2021 21/54/12-https://google.com.br- online:true
+27/11/2021 21/54/13-https://random-status-code.herokuapp.com/- online:true
